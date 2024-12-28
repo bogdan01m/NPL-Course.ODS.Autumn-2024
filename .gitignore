@@ -44,3 +44,7 @@ services/chroma/vector_store/*.bin
 services/chroma/vector_store/*.sqlite3
 
 services/langfuse
+chroma_db
+llm_service_v1.0/chroma_vector_store
+chroma_vector_store
+
