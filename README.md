@@ -17,3 +17,8 @@ The results for the **Adversarial** label classification, which were not address
 
 Overall, the study demonstrates that **Security-RAG** offers a robust solution for multi-task classification, especially in Response Harm and Refusal Detection, while also contributing valuable insights into adversarial prompt classification, marking significant progress in the field of harmful content detection.
 
+
+## Project Deployment
+
+The work done as part of this course at ODS has been integrated or is in the process of being integrated into the [**Security-RAG** project](https://github.com/bogdan01m/security-rag), which is being developed as a complete solution for unsecure and unsafe content detection and classification. While the ODS course focused on ML research, **Security-RAG** is intended to become a fully implemented and deployable solution for real-world applications.
+
